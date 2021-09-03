@@ -14,7 +14,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-
     List<String> items;
 
     Button btnAdd;
