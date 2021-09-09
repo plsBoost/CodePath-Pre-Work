@@ -32,11 +32,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the methods used were a bit confusing but it helped me to understand Android Studio!
+
+I loved that the app actually worked at the end!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Adnan Aman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
